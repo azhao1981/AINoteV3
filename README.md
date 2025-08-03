@@ -10,14 +10,14 @@
 ## 2. 编程语言与高级技巧
 
 ### 2.1. 编程语言基础
-- Python 基础语法与特性
-- Go 基础语法与特性
-- TypeScript/JavaScript 基础语法与特性
+- Python 基础
+- Go 基础
+- TypeScript/JavaScript 基础
   - Node.js 与 pnpm 配置: `notes/node_pnpm.md`
 
-#### Python 包管理与环境工具 (uv)
+### 2.2 Python 基础
 
-[python-uv](./notes/uv.md)
+#### 2.2.1 包管理与环境工具 [python-uv](./notes/uv.md)
 
 ### 2.2. 高级编程技巧
 
