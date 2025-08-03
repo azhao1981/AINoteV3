@@ -1,6 +1,7 @@
 .envrc
 .envrc.ps1
 .env
+.crush
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
