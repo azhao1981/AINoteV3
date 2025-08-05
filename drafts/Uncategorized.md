@@ -47,10 +47,7 @@ https://github.com/jupyterlite/jupyterlite
 TODO：把这个加到
 
 
-将网页秒变桌面应用的打包工具。这是一款基于 Rust 和 Tauri 构建的开源工具，能够将任意网页或前端项目（如 Vue、React 等）快速转换为轻量级的桌面应用和移动应用。它体积仅 5 MB，可通过 GitHub Actions 实现云端自动打包，无需复杂依赖，支持 macOS、Windows 和 Linux 平台。
-https://github.com/Sjj1024/PakePlus
 
-为什么这么小？晚上把这个demo 也做一下
 
 一键将代码库转换为 AI 友好格式的工具。该项目可将任意 GitHub 仓库快速转换为适合大语言模型处理的纯文本摘要。使用起来十分方便，只需将 GitHub 项目地址中的 hub 替换为 ingest 即可得到文本摘要。
 https://github.com/coderamp-labs/gitingest
