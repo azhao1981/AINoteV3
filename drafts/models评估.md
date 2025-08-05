@@ -6,6 +6,15 @@ groq 和 cerebras 都可以，都很快
 
 [](..\notebooks\cerebras.ipynb)
 
+微调
+
+https://cookbook.openai.com/articles/gpt-oss/fine-tune-transfomers
+
+GPT-OSS120B常识与情感测试 非常棒！
+https://linux.do/t/topic/844637
+
+https://linux.do/t/topic/844627 OpenAI发布Open models-gpt-oss
+看起来评估得很高
 ## Horizon Alpha
 Open Router 上有个神秘模型 Horizon Alpha，疑似即将发布的 GPT-5
 https://openrouter.ai/openrouter/horizon-beta
@@ -20,3 +29,4 @@ Draw me an SVG of a Pelican riding a Bicycle
 Gemini2.5-pro 写前端特别容易UI错位，服务器运维比较好用（？不太确定这个）
 Claude4-sonnet 前端很好用（前提是你能接受他的风格） 前端风格很统一
 qwen3-coder 不适合干复杂活 适合做一些分的很细的小任务 前端UI样式很奇怪容易错位
+

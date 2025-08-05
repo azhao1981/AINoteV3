@@ -15,3 +15,7 @@ https://openrouter.ai/deepseek/deepseek-chat-v3-0324:free
 https://openrouter.ai/deepseek/deepseek-r1-0528:free
 https://openrouter.ai/tngtech/deepseek-r1t2-chimera:free
 https://openrouter.ai/moonshotai/kimi-k2:free
+
+
+稳定快速 Google Gemini 公益站 数据总结
+https://linux.do/t/topic/844626
