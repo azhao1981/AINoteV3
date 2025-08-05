@@ -13,3 +13,11 @@
   - /web/app/components/workflow/nodes/code/panel.tsx - 配置面板
   - /web/app/components/workflow/nodes/code/node.tsx - 节点组件
   - /web/app/components/workflow/nodes/code/use-config.ts - 配置钩子
+
+  核心功能
+
+  - 支持 Python3 和 JavaScript 执行
+  - 沙箱化代码执行环境
+  - 变量输入输出管理
+  - 类型验证和错误处理
+  - 依赖管理（仅 Python）
