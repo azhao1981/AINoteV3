@@ -1,5 +1,12 @@
 
 
+
+https://github.com/yefeng2renxing/AIxiezuo
+AI小说生成系统 作者：聪明小鱼鱼/claude/gemini
+基于LangChain的AI小说生成工具，支持多种大语言模型，具备状态管理和Web界面。
+
+
+
 python test 的配置
 https://github.com/microsoft/vscode-python/issues/24201
 
@@ -73,3 +80,40 @@ https://github.com/scriptscat/scriptcat
 
 《Crypto 101》密码学入门。这是一本面向程序员的密码学入门书籍，从 XOR 和一次性密码本开始，循序渐进地讲解对称加密、公钥加密、哈希、MAC、签名、密钥交换、随机数等密码学“积木”，并把它们组装成 TLS、OpenPGP、OTR 等真实系统。
 https://github.com/crypto101/book
+
+
+这是可以代替字节appcut的视频剪辑的东西，
+https://github.com/OpenCut-app/OpenCut
+https://github.com/OpenCut-app/OpenCut/pull/479
+有人给提交了1w 行代码
+https://github.com/donghaozhang
+这种老哥看起来是中国人，而且在视觉上有不少研究
+
+coze 开源
+
+https://x.com/dotey/status/1948964541452218735
+https://mp.weixin.qq.com/s/MObH4JU1f1BVC0_Z610CyA
+
+https://x.com/dotey/status/1950405180928782500
+1. 先用现在的提示词在国产模型跑起来，怎么都不会差到哪里去的
+2. 建立少量测试数据集，有参考的输入和期望的质量高的输出
+3. 调整提示词，并手工或者代码跑一遍测试数据集，看是更好还是更坏，反复调整，参数小的模型多加几个例子会好一些。
+
+可以用 Coze Loop 帮你优化
+
+
+https://linux.do/t/topic/844337
+TODO： 这不就是我以前想要的 md 渲染吗？
+查看一个Markdown文件:
+https://fish2018.github.io/QuickRender/index.html?url=https%3A%2F%2Fraw.githubusercontent.com%2Fuser%2Frepo%2Fmain%2FREADME.md
+
+我们公司搞了个CHATBI，最后会生成一个CSV详细数据和markdown的分析报告，给老板看的，当然要怎么方便怎么来
+，尤其老板们还就喜欢直接用手机看，下载是不可能下载的，所以搞了这个预览工具，将html文件上传到web服务器，
+访问时只要后面拼接上CSV或MD链接就可以动态渲染预览。
+
+刚刚测试过600M的csv可以瞬间显示，移动端适配。
+
+两行代码就让你的 agent 应用自动永久记录用户偏好（不需要任何数据库，可云原生部署）
+https://linux.do/t/topic/844027
+https://github.com/LSTM-Kirigaya/usermcp
+TODO：加到redis里怎么样？
