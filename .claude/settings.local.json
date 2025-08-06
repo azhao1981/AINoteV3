@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:docs.anthropic.com)",
+      "Bash(claude-code:*)",
+      "Bash(ls:*)",
+      "Bash(claude mcp list:*)",
+      "Bash(claude mcp add:*)"
+    ],
+    "deny": []
+  }
+}
