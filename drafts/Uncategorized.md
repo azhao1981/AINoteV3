@@ -104,3 +104,14 @@ https://fish2018.github.io/QuickRender/index.html?url=https%3A%2F%2Fraw.githubus
 https://linux.do/t/topic/844027
 https://github.com/LSTM-Kirigaya/usermcp
 TODO：加到redis里怎么样？
+
+https://github.com/kamjin3086/chatless/blob/main/README_ZH.md
+【AI Chat客户端】使用Tauri2.0开发了一款小巧简洁的AI Chat客户端，已开源
+
+https://linux.do/t/topic/848919
+MIT license
+
+TODO： 这个是不是加一个这个的后端？ 当是 dify的客户端？
+对比一下 NEXT?
+这种要求 Claude cookie 的真的不是很让人省心
+https://github.com/Xerxes-2/clewdr/blob/master/README_zh.md

@@ -51,3 +51,9 @@ Claude Code best practices：https://www.youtube.com/watch?v=gv0WHhKelSE
 
 双语字幕版：https://www.bilibili.com/video/BV1EqhJzmEqE/
 
+
+## modelscop 的兼容接口
+
+https://modelscope.cn/docs/model-service/API-Inference/intro
+大语言模型 LLM（Anthropic API兼容接口）
+TODO：是不是可以直接接入cc 呢？
