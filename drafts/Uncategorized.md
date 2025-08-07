@@ -44,8 +44,7 @@ TODO：把这个加到
 
 
 
-一键将代码库转换为 AI 友好格式的工具。该项目可将任意 GitHub 仓库快速转换为适合大语言模型处理的纯文本摘要。使用起来十分方便，只需将 GitHub 项目地址中的 hub 替换为 ingest 即可得到文本摘要。
-https://github.com/coderamp-labs/gitingest
+
 
 用 Python 动态演示神经网络。这是一个基于 Manim 的 Python 库，用于制作机器学习相关概念的动画和可视化效果。只需编写简单的 Python 代码，即可轻松生成神经网络结构、卷积操作、Dropout 过程等动画效果，帮助理解和展示复杂的机器学习原理。
 https://github.com/helblazer811/ManimML

@@ -19,3 +19,21 @@ https://openrouter.ai/moonshotai/kimi-k2:free
 
 稳定快速 Google Gemini 公益站 数据总结
 https://linux.do/t/topic/844626
+
+
+
+## 无限免费高并发 GPT OSS
+base url: https://cycle-deputy-481.be-a.dev/v1/
+new api: https://cycle-deputy-481.be-a.dev
+
+models:
+
+openai/gpt-oss-120b,openai/gpt-oss-20b
+
+key: sk-hanlinwenyuan520
+优秀的 AI API 网关系统
+
+原汁原味的 New API 体验, 对界面无大改动, 遵循 GPL 3.0 协议, 无商用限制, 承诺不变质.
+添加极多原版不计划添加的特性. 以下只是部分.
+https://github.com/Veloera/Veloera
+go
