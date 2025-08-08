@@ -105,3 +105,51 @@ https://gitingest.com/
 
 Automate security reviews with Claude Code
 https://telegra.ph/Automate-security-reviews-with-Claude-Code-08-06
+
+
+## cc proxy
+企业级的多渠道大模型 API 管理平台。这是一款用 Go 语言开发的企业级大模型接口管理平台，支持 OpenAI、Gemini、Claude 等多种服务。它开箱即用、内置 Web 管理界面、保留原生 API 格式，支持密钥自动轮询、故障切换和水平扩展，专为高并发生产环境而设计。
+https://github.com/tbphp/gpt-load
+
+https://github.com/1rgs/claude-code-proxy
+https://github.com/CogAgent/claude-code-proxy
+https://github.com/coffeegrind123/gemini-for-claude-code
+https://github.com/musistudio/claude-code-router
+https://github.com/BerriAI/litellm
+https://github.com/chinrain/Api-Conversion
+
+Toolify 是一个中间件代理，旨在为那些本身不支持函数调用功能的大型语言模型，或未提供函数调用功能的 OpenAI 接口注入兼容 OpenAI 格式的函数调用能力。它作为您的应用程序和上游 LLM API 之间的中介，负责注入必要的提示词并从模型的响应中解析工具调用。
+https://github.com/funnycups/Toolify/blob/main/README_zh.md
+
+https://github.com/UfoMiao/zcf
+零配置，一键搞定 Claude Code 环境设置 - 支持中英文双语配置、智能代理系统和个性化 AI 助手
+TODO： 这个不光是PROXY，大多数是用法，看下有哪些是要用的
+
+
+一个能将多种大模型 API（Gemini, OpenAI, Claude...）统一封装为本地 OpenAI 兼容接口的强大代理。
+AIClient2API：模拟Gemini CLI和Kiro 客户端请求，兼容OpenAI API。
+可每日千次Gemini模型请求， 免费使用Kiro内置Claude模型。通过API轻松接入任何客户端，让AI开发更高效！
+https://github.com/justlovemaki/AIClient-2-API
+
+
+```bash
+git clone git@github.com:azhao1981/gpt-load.git
+git clone git@github.com:azhao1981/new-api.git
+```
+https://github.com/azhao1981/new-api 
+Dify，当前仅支持chatflow
+TODO: 真的支持 dify 了
+
+[在 New API 使用 Claude Code 再也不用便秘poop了](https://linux.do/t/topic/852752)
+
+看起来直接支持 CC 了
+
+https://hub.docker.com/r/calciumion/new-api/tags
+
+v0.8.8.6.0
+
+```bash
+docker pull calciumion/new-api:v0.8.8.6.0
+```
+
+

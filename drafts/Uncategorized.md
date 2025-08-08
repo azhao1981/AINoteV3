@@ -27,8 +27,6 @@ https://github.com/microsoft/WindowsAppSDK
 Google 开源的数据库 MCP 工具。该项目是 Google 开源的 MCP 服务器，专为 LLM 应用与各类数据库之间提供统一、安全、可扩展的数据访问层。它集成了连接池、身份验证、监控等功能，让 AI agent 快速拥有查询数据库的能力，支持 PostgreSQL、MySQL 等多种数据库。
 https://github.com/googleapis/genai-toolbox
 
-企业级的多渠道大模型 API 管理平台。这是一款用 Go 语言开发的企业级大模型接口管理平台，支持 OpenAI、Gemini、Claude 等多种服务。它开箱即用、内置 Web 管理界面、保留原生 API 格式，支持密钥自动轮询、故障切换和水平扩展，专为高并发生产环境而设计。
-https://github.com/tbphp/gpt-load
 
 快速恢复专注的命令行工具。这是一个 Go 语言开发的命令行工具，旨在帮助开发者在心烦意乱或注意力不集中时，通过简单的呼吸练习，快速找回专注和内心的平静。
 https://github.com/e6a5/zenta
