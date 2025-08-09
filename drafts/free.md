@@ -37,3 +37,13 @@ key: sk-hanlinwenyuan520
 https://github.com/Veloera/Veloera
 go
 
+## “公益”站
+
+http://llm.imerji.cn/
+
+主站： https://ai.8897122.xyz/
+状态监控： https://oneapi.8897122.xyz/ 【自动封禁坏逼+显示有效key数量+使用情况】
+无人驾驶发动机: https://key.8897122.xyz/ 【靠佬友们捐献Gemini Key，自动添加到GPT-LOAD】【抄另外一个大佬的】
+https://ai.8897122.xyz/register?aff=1WES
+当前余额
+$2000000.00 。。。很好
