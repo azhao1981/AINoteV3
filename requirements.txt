@@ -1,4 +1,5 @@
 --index-url https://mirrors.aliyun.com/pypi/simple
+pip
 numpy
 pandas
 matplotlib
