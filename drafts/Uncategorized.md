@@ -39,10 +39,8 @@ https://github.com/jupyterlite/jupyterlite
 
 TODO：把这个加到
 
-
-
-
-
+https://github.com/Mursor/LIVE
+Mursor的直播源收藏仓库
 
 用 Python 动态演示神经网络。这是一个基于 Manim 的 Python 库，用于制作机器学习相关概念的动画和可视化效果。只需编写简单的 Python 代码，即可轻松生成神经网络结构、卷积操作、Dropout 过程等动画效果，帮助理解和展示复杂的机器学习原理。
 https://github.com/helblazer811/ManimML
